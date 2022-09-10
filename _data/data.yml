@@ -40,12 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Full time Delphi developer, currently working in the development and maintenance of a health insurance company's management software.
 education:
     title: Education
     info:
@@ -65,7 +60,7 @@ experiences:
     info:
       - role: Programmer
         time: 2022 - present
-        company: Google, London
+        company: MPS Informática
         details: |
           Full time developer using Delphi with SQL.
       - role: Programming Internship
