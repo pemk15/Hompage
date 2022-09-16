@@ -78,7 +78,7 @@ publications:
     title: Publications
     papers:
       - title: Localização de Faltas em Linhas de Transmissão de Energia Elétrica Utilizando as Redes Neurais Recorrentes LSTM e GRU
-        link: "https://sbbd.org.br/2022/wtag-program/"
+        link: "https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/21839/21663"
         authors: Patrick E. M. Karvat (UFPR), Eduardo C. Almeida (UFPR), Leandro A. Ensina (UFPR), Luiz E. S. Oliveira (UFPR), Signie L. F. Santos (LACTEC), Leandro S. Bernardino (Copel)
         conference: Simpósio Brasileiro de Bancos de Dados, 2022
 
